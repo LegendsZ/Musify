@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Musify", "Musify.vbproj", "{3AB2DD0E-23FF-4F09-B1E6-2002D5C9563D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB2DD0E-23FF-4F09-B1E6-2002D5C9563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB2DD0E-23FF-4F09-B1E6-2002D5C9563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB2DD0E-23FF-4F09-B1E6-2002D5C9563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB2DD0E-23FF-4F09-B1E6-2002D5C9563D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C68C560-4D30-49D8-A22D-4BFADA888271}
+	EndGlobalSection
+EndGlobal
